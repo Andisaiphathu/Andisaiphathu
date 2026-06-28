@@ -18,7 +18,7 @@
 </h3>
 
 <!-- GIF -->
-<img align="right" height="300" width="500" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" />
+<img align="right" height="300" width="500" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif"/>
 
 ---
 
@@ -26,21 +26,28 @@
 <h3 align="left"><font size="+2" face="Verdana">Professional Summary</font></h3>
 
 <p align="left">
-Software Developer and Software Tester with strong skills in C#, ASP.NET Core, Java, SQL, and API development.  
-Skilled in software testing (UAT, SIT, regression, integration), backend development, and Agile collaboration.  
-Passionate about building reliable, scalable systems and improving software quality through automation and testing.
+Software Developer and Software Tester with a strong foundation in backend development using C#, ASP.NET Core, Java, SQL, and REST APIs.  
+Skilled in software testing (UAT, SIT, Regression, Integration), backend development, Agile collaboration, and CI/CD practices.  
+Passionate about building scalable software, automating testing, and continuously learning modern software engineering technologies.
 </p>
 
 ---
 
-<!-- Languages Section -->
+<!-- Animated Typing -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=4FC3F7&center=true&vCenter=true&width=900&lines=Software+Developer;Software+Tester;Java+%7C+C%23+%7C+ASP.NET+Core;REST+API+Developer;Backend+Engineer;Always+Learning+New+Tech" />
+</p>
+
+---
+
+<!-- Programming Languages -->
 <h3 align="left"><font size="+2" face="Verdana">Programming Languages</font></h3>
 
 <p align="left">
-<img src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png" alt="java" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/github/explore/main/topics/csharp/csharp.png" alt="csharp" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" alt="javascript" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/github/explore/main/topics/sql/sql.png" alt="sql" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="45"/>
+<img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
 </p>
 
 ---
@@ -49,8 +56,9 @@ Passionate about building reliable, scalable systems and improving software qual
 <h3 align="left"><font size="+2" face="Verdana">Frameworks</font></h3>
 
 <p align="left">
-<img src="https://raw.githubusercontent.com/github/explore/main/topics/aspnet/aspnet.png" alt="aspnet" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/github/explore/main/topics/spring-boot/spring-boot.png" alt="springboot" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hibernate/hibernate-original.svg" width="45" height="45"/>
 </p>
 
 ---
@@ -59,10 +67,10 @@ Passionate about building reliable, scalable systems and improving software qual
 <h3 align="left"><font size="+2" face="Verdana">Web Technologies</font></h3>
 
 <p align="left">
-<img src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png" alt="html" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png" alt="css" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/github/explore/main/topics/api/api.png" alt="api" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/github/explore/main/topics/json/json.png" alt="json" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="45" height="45"/>
+<img src="https://img.shields.io/badge/API-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+<img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white"/>
 </p>
 
 ---
@@ -71,8 +79,8 @@ Passionate about building reliable, scalable systems and improving software qual
 <h3 align="left"><font size="+2" face="Verdana">Databases</font></h3>
 
 <p align="left">
-<img src="https://raw.githubusercontent.com/github/explore/main/topics/microsoft-sql-server/microsoft-sql-server.png" alt="mssql" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/github/explore/main/topics/mysql/mysql.png" alt="mysql" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="45" height="45"/>
 </p>
 
 ---
@@ -81,70 +89,83 @@ Passionate about building reliable, scalable systems and improving software qual
 <h3 align="left"><font size="+2" face="Verdana">Tools & Platforms</font></h3>
 
 <p align="left">
-<img src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png" alt="git" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/github/explore/main/topics/github/github.png" alt="github" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/github/explore/main/topics/jira/jira.png" alt="jira" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/github/explore/main/topics/postman/postman.png" alt="postman" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png" alt="docker" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/github/explore/main/topics/kubernetes/kubernetes.png" alt="kubernetes" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45" height="45"/>
+
+<img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" width="45" height="45"/>
+
+<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="45" height="45"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="45" height="45"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" width="45" height="45"/>
+
+<img src="https://skillicons.dev/icons?i=jenkins,githubactions,selenium" />
 </p>
 
 ---
 
-<!-- Testing -->
-<h3 align="left"><font size="+2" face="Verdana">Testing</font></h3>
+<!-- Editors -->
+<h3 align="left"><font size="+2" face="Verdana">Editors / IDEs I ♥</font></h3>
 
 <p align="left">
-UAT | SIT | Regression Testing | Integration Testing | Functional Testing | Selenium | Test Case Design
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" width="45" height="45"/>
 </p>
 
 ---
 
-<!-- Projects Section -->
-<h3 align="left"><font size="+2" face="Verdana">Projects</font></h3>
-
-#### Enterprise Inventory Management System (In Progress)
-Java | Spring Boot | Spring Security | Hibernate | MySQL | Docker | Jenkins | GitHub Actions  
-- Designed RESTful APIs for managing inventory, suppliers, and stock.  
-- Implemented JWT authentication and role-based access control (RBAC).  
-- Built CI/CD pipelines using GitHub Actions.  
-- Writing unit tests using JUnit and Mockito.  
-- Planning Docker + Jenkins deployment pipeline.  
-- Performance testing using Apache JMeter.
-
-#### Employee Management System & API Test Suite
-C# | ASP.NET Core | EF Core | MS SQL Server | JWT | Docker | Kubernetes  
-- Built secure RESTful APIs using ASP.NET Core.  
-- Implemented JWT authentication with refresh tokens.  
-- Tested APIs using Postman and Swagger UI.  
-- Optimized database queries and backend logic.  
-- Containerized application using Docker and Kubernetes.  
-- Automated builds using GitHub Actions.
+## 🚀 Currently Working On
+- Enterprise Inventory System (Spring Boot)
+- REST API Security (JWT)
+- CI/CD Pipelines (GitHub Actions + Jenkins)
+- API Automation Testing (Selenium + Postman)
+- Docker & Kubernetes Deployment
 
 ---
 
-<!-- Education Section -->
-<h3 align="left"><font size="+2" face="Verdana">Education</font></h3>
-
-Bachelor of Science in Computer Science – University of Venda (2022 – 2024)  
-- Focus: Software Development, Algorithms, Data Structures, Web Development, Databases  
-- Built strong foundation in Java, C#, SQL, and system design  
-
----
-
-<!-- Certifications -->
-<h3 align="left"><font size="+2" face="Verdana">Certifications</font></h3>
-
-- ISTQB Certified Tester Foundation Level (CTFL)  
-- Microsoft & LinkedIn Career Essentials in Software Development  
+## 🌱 Currently Learning
+- Microservices Architecture
+- Spring Security
+- System Design
+- Apache JMeter
+- Cloud & DevOps
 
 ---
 
-<!-- Contact Section -->
-<h3 align="left"><font size="+2" face="Verdana">Connect with me</font></h3>
+## 📊 GitHub Stats
 
-<p align="left">
-📧 Email: your-email-here  
-🇿🇦 Location: South Africa  
-💬 Ask me about Software Development, Testing, APIs, and Backend Systems
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Andisaiphathu&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Andisaiphathu&theme=tokyonight"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andisaiphathu&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+## 📈 Contribution Graph
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Andisaiphathu&theme=tokyo-night"/>
+</p>
+
+---
+
+
+## 🌐 Connect With Me
+
+- 💼 LinkedIn: https://linkedin.com/in/andisai-singo-1b58a52b9/
+- 💬 Ask me about Java, C#, ASP.NET Core, APIs, Testing, DevOps
+
+---
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Andisaiphathu&label=Profile%20Views&color=blueviolet"/>
+</p>
+
+<p align="center">
+⭐ Thanks for visiting my profile — let's build scalable software together 🚀
 </p>
