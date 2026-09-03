@@ -96,9 +96,10 @@ Passionate about building scalable software, automating testing, and continuousl
 ---
 ## 👨‍💻 About Me
 
-I enjoy building practical software solutions, solving problems through technology, and continuously improving my backend development and software engineering skills.
+I enjoy building practical software solutions, solving problems through technology, and continuously improving my backend development and software engineering skills. 
 
-🥁**Fun Fact:** I play the drums loud enough that my neighbours definitely know when I'm practising.🥁😂 When I'm not coding or drumming, you'll probably find me playing Call of Duty, trying to land ridiculous long-range sniper shots. 🎮🎯
+🎵 **Fun Fact:** I play the drums so loud that the neighbours probably know when I'm practising. 🥁😂 And when I'm not coding or drumming, you’ll probably find me playing Call of Duty and trying to land ridiculous long-range sniper shots. 🎮🎯
+
 ---
 
 ## 🚀 Featured Projects
