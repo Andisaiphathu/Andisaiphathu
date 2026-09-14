@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Andisani Phathutshedzo Singo</h1>
-<h3 align="center">Junior Software Tester| Software Testing | Java & C# | Spring Boot | ASP.NET Core | REST APIs  🇿🇦</h3>
+<h3 align="center">Junior Software Tester | Software Testing | Java & C# | Spring Boot | ASP.NET Core | REST APIs  🇿🇦</h3>
 <p align="center">Passionate about building reliable software systems, testing applications, and developing scalable backend solutions using Java and C#.</p>
 
 <img align="right" height="250" src="assets/coder.gif" alt="Coding animation" />
