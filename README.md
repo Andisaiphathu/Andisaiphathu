@@ -16,9 +16,7 @@
 <h3 align="left"><font size="+2" face="Verdana">Professional Summary</font></h3>
 
 <p align="left">
-Software Developer and Software Tester with a strong foundation in backend development using C#, ASP.NET Core, Java, SQL, and REST APIs.<br>
-Skilled in software testing (UAT, SIT, Regression, Integration), backend development, Agile collaboration, and CI/CD practices.<br>
-Passionate about building scalable software, automating testing, and continuously learning modern software engineering technologies.
+Software Development Engineer in Test (SDET) with a strong foundation in backend development using C#, ASP.NET Core, Java, SQL, and REST APIs. Skilled in full-lifecycle software testing (UAT, SIT, Regression, Integration), automation, Agile collaboration, and CI/CD practices. Passionate about building scalable software, automating quality assurance, and continuously learning modern software engineering technologies.
 </p>
 
 ---
